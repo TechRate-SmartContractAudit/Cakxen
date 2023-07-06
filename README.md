@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Cakxen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, we are the TechRate.
+- We are the team of engineers and analysts specialized in blockchain technology and business analytics with wide experience on crypto market. Our core team is famous for its market reports made during 2017-2018 bullish market and technical evaluation of the projects.
 
-<!---
-Cakxen/Cakxen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- We started as an Audit & Development firm for smart contracts in the beginning of the ICO rush and expanded our expertise to the market researches and exchange analytics, security and technical valuation of the projects.
