@@ -1,4 +1,4 @@
-- 👋 Hi, we are the TechRate.
+- 👋 Hi there, we are the TechRate.
 - We are the team of engineers and analysts specialized in blockchain technology and business analytics with wide experience on crypto market. Our core team is famous for its market reports made during 2017-2018 bullish market and technical evaluation of the projects.
 
 
